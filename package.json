@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/pkorshov.lwc-kzbbxmku-fork-kzbc1foq",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve L6H3et8tcn9yQaRfXQpZ --open"
+  }
+}
